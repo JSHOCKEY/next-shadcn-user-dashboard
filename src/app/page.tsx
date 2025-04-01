@@ -59,13 +59,12 @@ export default function Dashboard() {
             <ul>
               <li className="p-2 hover:bg-red-700 rounded cursor-pointer">Home</li>
               <li className="p-2 hover:bg-red-700 rounded cursor-pointer">Dashboard</li>
-              <li className="p-2 hover:bg-red-700 rounded cursor-pointer">Profile</li>
               <li className="p-2 hover:bg-red-700 rounded cursor-pointer">Settings</li>
             </ul>
           </nav>
         </aside>
         <main className="flex-1 p-6">
-          <h1 className="text-3xl font-bold mb-6">User Profile</h1>
+          <h1 className="text-3xl font-bold mb-6">User Dashboard</h1>
 
           <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
             <div className="xl:items-stretch">
